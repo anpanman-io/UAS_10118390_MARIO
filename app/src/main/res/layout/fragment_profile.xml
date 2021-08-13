@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/profile"
-    tools:context=".ProfileFragment">
+    tools:context="com.mario.gonzaga_10118390.mytestapp.ProfileFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

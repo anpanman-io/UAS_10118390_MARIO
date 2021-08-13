@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/splashFragment"
-        android:name="com.jovanovic.stefan.mytestapp.SplashFragment"
+        android:name="com.mario.gonzaga_10118390.mytestapp.SplashFragment"
         android:label="fragment_splash"
         tools:layout="@layout/fragment_splash" >
         <action
@@ -22,7 +22,7 @@
     </fragment>
     <fragment
         android:id="@+id/viewPagerFragment"
-        android:name="com.jovanovic.stefan.mytestapp.onboarding.ViewPagerFragment"
+        android:name="com.mario.gonzaga_10118390.mytestapp.onboarding.ViewPagerFragment"
         android:label="fragment_view_pager"
         tools:layout="@layout/fragment_view_pager" >
         <action
@@ -36,12 +36,12 @@
     </fragment>
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.jovanovic.stefan.mytestapp.HomeFragment"
+        android:name="com.mario.gonzaga_10118390.mytestapp.HomeFragment"
         android:label="fragment_home"
         tools:layout="@layout/fragment_home" />
     <activity
         android:id="@+id/mapsActivity"
-        android:name="com.jovanovic.stefan.mytestapp.MapsFragment"
+        android:name="com.mario.gonzaga_10118390.mytestapp.MapsFragment"
         android:label="activity_maps"
         tools:layout="@layout/activity_maps" />
 </navigation>
